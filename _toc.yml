@@ -1,0 +1,12 @@
+- file: intro
+- part: Data
+  chapters:
+  - file: data/generation
+    sections:
+    - file: data/generation/hydro
+  - file: data/load
+    sections:
+    - file: data/load/notebook
+- part: Experiments
+  chapters:
+  - file: experiments
